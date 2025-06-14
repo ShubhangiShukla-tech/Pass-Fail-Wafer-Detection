@@ -1,0 +1,4 @@
+feature1,feature2,feature3,Pass/Fail
+0.1,-0.2,0.5,Pass
+-0.4,0.3,0.2,Fail
+0.6,0.1,-0.1,Pass
